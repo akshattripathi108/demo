@@ -1,1 +1,2 @@
-# demo
+Calculator programmed in java
+
